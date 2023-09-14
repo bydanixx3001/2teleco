@@ -1,2 +1,2 @@
-# iesheliopolis2telecomedio
+# 2teleco
 Directorio para subir cosas del grado
