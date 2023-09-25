@@ -55,7 +55,7 @@ Se inicializan en el Setup
 
 12. ¿Cómo nos hace saber el editor de texto que reconoce una función o palabra
 reservada?
-
+te cambia el color
 13. Escribe el programa de encendido del led que le entra a la placa de arduino, y cuyo
 programa se encuentra en el vídeo que estás viendo.
 void setup (){ 
@@ -64,7 +64,7 @@ void setup (){
 void loop(){ 
     digtalWrite(13,HIGH); 
     delay(1000); 
-    digitalWrite(13,LOW) 
+    digitalWrite(13,LOW);
     delay(1000); 
 }
 14. Describe cada línea de instrucción junto a su sintaxis.
