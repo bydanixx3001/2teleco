@@ -1,0 +1,38 @@
+¿Qué es un transductor? Tipos, Definicion de los tipos y ejemplos de los tipos
+Un transductor es un dispositivo capaz de transformar energia de entrada en otra de salida diferente 
+    Transductores eléctricos a mecánicos (y viceversa):
+        Micrófono: Convierte las ondas sonoras (mecánicas) en señales eléctricas.
+        Altavoz: Transforma señales eléctricas en ondas sonoras.
+
+    Transductores de temperatura:
+        Termopar: Genera una diferencia de voltaje en respuesta a cambios de temperatura.
+        Termistor: Cambia su resistencia eléctrica en función de la temperatura.
+
+    Transductores de presión:
+        Sensor de presión piezorresistivo: Altera su resistencia eléctrica en respuesta a la presión.
+        Manómetro de tubo Bourdon: Convierte la presión en una lectura mecánica.
+
+    Transductores de velocidad (velocidad a señal eléctrica):
+        Tacómetro de efecto Hall: Mide la velocidad de rotación de un eje y produce una señal eléctrica proporcional.
+
+    Transductores de posición (posición a señal eléctrica):
+        Potenciómetro: Produce una señal eléctrica variable en función de la posición de su cursor.
+        Codificador rotativo: Convierte la posición angular en una señal digital.
+
+    Transductores de luz (luz a señal eléctrica):
+        Fotodiodo: Genera una corriente eléctrica en respuesta a la luz incidente.
+        Célula fotoeléctrica: Convierte la luz en una señal eléctrica para detectar objetos.
+
+    Transductores de ultrasonido:
+        Sensor ultrasónico: Emite pulsos de ultrasonido y mide el tiempo que tardan en regresar para calcular la distancia.
+
+    Transductores de flujo (flujo a señal eléctrica):
+        Medidor de flujo magnético: Genera una señal eléctrica proporcional al flujo de un fluido.
+
+    Transductores biológicos:
+        Electrocardiograma (ECG): Registra la actividad eléctrica del corazón.
+        Electroencefalograma (EEG): Mide la actividad eléctrica en el cerebro.
+
+    Transductores de fuerza:
+        Célula de carga: Transforma una fuerza aplicada en una señal eléctrica proporcional.
+        Dinamómetro: Mide la fuerza de tracción o compresión en un objeto.
