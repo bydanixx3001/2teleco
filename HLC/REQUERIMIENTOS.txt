@@ -1,0 +1,4 @@
+Elementos del programa 
+1 Estructuras / operadores
+2 Valores variables, constantes
+3 Funciones
