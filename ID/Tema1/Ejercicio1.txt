@@ -1,0 +1,12 @@
+Tipologia de automatizaciones
+Tipos de automaticiaciones
+*Inalámbrico 
+*Cable bus
+*Cable PLC de automatas o relés progamables
+
+Breve explicación
+ 
+Instalaciones inalámbricas son sistemas descentralizados que permiten gobernar los actuadores de la vivienda sin necesidad de conectar los elementos domóticos mediante cables.
+Instalaciones de cable bus es un sistema descentralizado formado por un bus de dos o más hilos que se encarga de comunicar todos los elementos domóticos del sistema
+Instalaciones de cable PLC stá generalizado en el entorno industrial; sin embargo, el abaratamiento de los costes y la reducción de su tamaño, está haciendo que cada vez sean más las aplicaciones domésticas que los utilizan 
+Dibujo
