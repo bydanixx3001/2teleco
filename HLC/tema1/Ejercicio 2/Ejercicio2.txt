@@ -1,4 +1,186 @@
-Elementos del programa 
+ Elementos del programa 
 1 Estructuras / operadores
+
+Sketch
+loop() //es un bucle
+setup()//establecer variables
+Control Structure
+break//una forma de parar el do wile
+continue //continua el codigo y salta el condicional
+do...while //condicionales
+else//condicionales
+for//condicionales
+goto //mueve el flujo a un punto del programa
+if //condicinal
+return //regresa a donde indique
+switch...case // 
+while //condicional
+Further Syntax
+#define (define) //declarar variables
+#include (include) //incluir librerias
+/* */ (block comment) //para comentar 
+// (single line comment) //para hacer comentarios en lineas
+; (semicolon)//para acabar las lineas de codigo
+{} (curly braces) para agrupar 
+Arithmetic Operators (operadores)
+% (remainder)
+* (multiplication)
++ (addition)
+- (subtraction)
+/ (division)
+= (assignment operator)
+Comparison Operators
+!= (not equal to)
+< (less than)
+<= (less than or equal to)
+== (equal to)
+> (greater than)
+>= (greater than or equal to)
+Boolean Operators
+! (logical not)
+&& (logical and)
+|| (logical or)
+Pointer Access Operators
+& (reference operator)
+* (dereference operator)
+Bitwise Operators
+& (bitwise and)
+<< (bitshift left)
+>> (bitshift right)
+^ (bitwise xor)
+| (bitwise or)
+~ (bitwise not)
+Compound Operators
+%= (compound remainder)
+&= (compound bitwise and)
+*= (compound multiplication)
+++ (increment)
++= (compound addition)
+-- (decrement)
+-= (compound subtraction)
+/= (compound division)
+^= (compound bitwise xor)
+|= (compound bitwise or) 
 2 Valores variables, constantes
+
+Constants
+HIGH | LOW //encender o apagar algo
+INPUT | OUTPUT | INPUT_PULLUP //declarar el pin
+LED_BUILTIN //para el led integrado
+true | false //si o no
+Floating Point Constants
+Integer Constants
+Conversion
+(unsigned int)
+(unsigned long)
+byte()
+char() //declarar variable de caracter
+float() //
+int() //declarar variable de caracter entero
+long()
+word()
+Data Types
+array //puntero
+bool //booleano 
+boolean //booleano
+byte  
+char //declarar varable de caracter
+double
+float
+int //declarar varable de caracter entero
+long //
+short
+size_t
+string
+String()
+unsigned char
+unsigned int
+unsigned long
+void
+word
+Variable Scope & Qualifiers
+const
+scope
+static
+volatile
+Utilities
+PROGMEM
+sizeof() 
 3 Funciones
+
+Digital I/O
+digitalRead()
+digitalWrite()
+pinMode()
+Analog I/O
+analogRead()
+analogReference()
+analogWrite()
+Zero, Due & MKR Family
+analogReadResolution()
+analogWriteResolution()
+Advanced I/O
+noTone()
+pulseIn()
+pulseInLong()
+shiftIn()
+shiftOut()
+tone()
+Time
+delay()
+delayMicroseconds()
+micros()
+millis()
+Math
+abs()
+constrain()
+map()
+max()
+min()
+pow()
+sq()
+sqrt()
+Trigonometry
+cos()
+sin()
+tan()
+Characters
+isAlpha()
+isAlphaNumeric()
+isAscii()
+isControl()
+isDigit()
+isGraph()
+isHexadecimalDigit()
+isLowerCase()
+isPrintable()
+isPunct()
+isSpace()
+isUpperCase()
+isWhitespace()
+Random Numbers
+random()
+randomSeed()
+Bits and Bytes
+bit()
+bitClear()
+bitRead()
+bitSet()
+bitWrite()
+highByte()
+lowByte()
+External Interrupts
+attachInterrupt()
+detachInterrupt()
+Interrupts
+interrupts()
+noInterrupts()
+Communication
+Serial
+SPI
+Stream
+Wire
+USB
+Keyboard
+Mouse
+
