@@ -1,0 +1,35 @@
+5.1
+a)riesgo bajo
+b)riesgo bajo medio
+c)riedgo medio alto 
+d)riesgo bajo medio
+e)riesgo bajo medio
+f)riesgo bajo
+g)riesgo medio alto
+h)alto riesgo
+i)riesgo medio alto
+j)riesgo bajo medio
+k)alto riesgo
+5.2
+a)barreras de microondas
+b)contacto magnético
+c)detectores ultrasonicos
+d)detectores de rotura de cristal
+e)detector de inflarojo pasivo
+f)detector de inerciales
+g)contacto magnetico
+h) contacto por vibracion de mercurio
+i)detector de rotura de cristal
+j)detector de ultrasonido
+k)detector de doble tecnologia
+5.3
+detetectores de doble tecnologia
+detector de microondas
+5.4 
+Señal de alimentacion:para dar corriente
+Senal de control
+señal de prueba
+señal de alarma
+señal de aviso de sabotaje
+señal de aviso de fallo 
+5.5 

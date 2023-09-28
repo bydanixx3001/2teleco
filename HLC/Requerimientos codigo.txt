@@ -14,3 +14,12 @@
 	3.2 Inicializacion del sistema
 	digitalWrite(verde,low);
 	servo.write(90);
+	3.3 Abrir la comunicacion serie 
+4 Void....  En el programa se pueden definir mas funciones
+void color (c)
+{
+--------
+}
+5 void loop()
+es el programa en si
+ 
