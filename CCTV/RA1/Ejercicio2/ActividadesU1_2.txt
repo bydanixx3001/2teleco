@@ -33,3 +33,5 @@ señal de alarma
 señal de aviso de sabotaje
 señal de aviso de fallo 
 5.5 
+El de rotura no se pone directamente en el cristal por lo tanto el de vibración sí.
+El de vibración detecta antes de que se rompa el cristal mediante la vibración.

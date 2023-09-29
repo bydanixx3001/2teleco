@@ -1,0 +1,4 @@
+Tipos de actuadores
+Servomotores,motores paso a paso, motores dc, relés, zumbadores y pantallas lcd
+Tipos de sensores
+de temperatura como el lm35 y el dht11,sensores de humedad y sensor de pulso cardíaco 
