@@ -1,11 +1,9 @@
-void setup ()
-{ 
+void setup (){ 
     pinMode(1,OUTPUT); 
     pinMode(2,OUTPUT); 
     pinMode(3,OUTPUT); 
 }
-void loop() 
-{ 
+void loop() { 
     digitalWrite(1, HIGH);
     Serial.print("Verde ON NARANJA OFF ROJO OFF");
     delay(8000);
