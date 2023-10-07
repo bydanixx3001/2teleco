@@ -1,12 +1,17 @@
-int pulsador =6;
-int valorpulsador =Ø;
+int a =6;
+int i =0;
+int b =13;
+
 void setup() 
 {
-pinMode(pulsador,INPUT);
+pinMode(b,OUTPUT);
+pinMode(a,INPUT);
 }
 
-void loop() 
+void loop()
 {
-valorpulsador= digitalRead(pulsador)  
+i= digitalRead(a);
+if (i==1)
+  digitalWrite(b,HIGH);
+  Serial.print("Está encendido");
 }
-º
