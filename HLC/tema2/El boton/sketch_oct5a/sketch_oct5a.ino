@@ -1,17 +1,18 @@
-int a =6;
-int i =0;
-int b =13;
+int pulsadorPin = 8;  
+int ledPin = 9;     
 
-void setup() 
-{
-pinMode(b,OUTPUT);
-pinMode(a,INPUT);
+void setup() {
+  pinMode(pulsadorPin, INPUT);  
+  pinMode(ledPin, OUTPUT);      
 }
 
-void loop()
-{
-i= digitalRead(a);
-if (i==1)
-  digitalWrite(b,HIGH);
-  Serial.print("Está encendido");
+void loop() {
+  int estadoPulsador = digitalRead(pulsadorPin);
+
+  if (estadoPulsador == HIGH) {
+    digitalWrite(ledPin, HIGH);
+  } 
+  else {
+    digitalWrite(ledPin, 0);
+  }
 }
