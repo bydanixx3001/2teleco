@@ -1,4 +1,5 @@
-#include <Servo.h>
+/*Mover el servo*/
+#include <Servo.h> //incluimos la libreria del servo
 
 Servo miservo; 
 int p = 90;
@@ -14,8 +15,8 @@ void loop() {
 
     if (G >= 0 && G <= 180) 
     {
-      miservo.write(G); // Mueve el servo al ángulo especificado
-      p = G; // Actualiza la posición actual del servo
-    }
+      miservo.write(G); 
+      p = G;
+     }
   }
 }
