@@ -18,6 +18,6 @@ void loop() {
   if (estadoBoton == HIGH) { // Si el botón está presionado
     estadoLed = !estadoLed; // Cambiar el estado del LED
     digitalWrite(led, estadoLed); // Encender o apagar el LED según el estado
-    delay(250); // Pequeña pausa para evitar el rebote del botón
+    delay(2500); // Pequeña pausa para evitar el rebote del botón
   }
 }
