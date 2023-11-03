@@ -1,0 +1,50 @@
+4.1¿Dónde resulatria más peligrosa una concentración elevada de monóxido de carbono? En el nivel del mar porque la presión sube. 
+4.2. Explica el funcionamiento de los detectores por semiconductor ¿para la detección de que tipo de gases es recomendable su uso? 
+Los detectores de gas basados en semiconductores detectan gases específicos mediante la medición de cambios en la conductividad eléctrica de un material semiconductor cuando el gas entra en contacto con él. Estos detectores son recomendables para la detección de gases como monóxido de carbono
+4.3 
+No, no usaría un sensor de conductividad térmica para detectar monóxido de carbono, ya que este tipo de sensor no es efectivo para detectar CO. En su lugar, se utilizan sensores electroquímicos o de infrarrojos, que son más adecuados y precisos para esta aplicación.
+4.4. Tecnologías de detección de gas apropiadas para diferentes situaciones:
+a) Entorno doméstico con diferentes tipos de gases:
+    • Detectores de gas combustible: Para detectar gases como el metano (gas natural) y el propano, que son inflamables.
+    • Detectores de monóxido de carbono: Para detectar este gas tóxico que se produce en la combustión incompleta de aparatos de gas, como calderas o estufas.
+    • Detectores de gas multigas: Para abordar una variedad de gases comunes en entornos domésticos.
+b) Industria con riesgo de gases inflamables:
+    • Detectores de gas inflamable: Utilizados para detectar gases inflamables como el gas natural, propano, butano y vapores de productos químicos inflamables.
+    • Detectores de oxígeno: Para prevenir la acumulación de oxígeno en concentraciones peligrosas en áreas donde existen gases inflamables.
+c) Laboratorio con riesgo de fuga de sustancia tóxica:
+    • Detectores de gas tóxico específico: Para la detección de la sustancia gaseosa tóxica concreta, que en este caso es necesario conocer de antemano.
+    • Detectores de gases múltiples: Si existe el riesgo de varias sustancias tóxicas, los detectores de gases múltiples pueden ser útiles.
+4.5. Cálculo del caudal mínimo de ventilación para el local con dos plantas:
+Superficie total = Superficie planta baja + Superficie planta primera Superficie total = 844.39 m² + 854.82 m² = 1699.21 m²
+Altura promedio = (Altura planta baja + Altura planta primera) / 2 Altura promedio = (2.83 m + 2.72 m) / 2 = 2.775 m
+Caudal mínimo = Superficie total * Altura promedio * Renovaciones por hora Caudal mínimo = 1699.21 m² * 2.775 m * 6 renovaciones/hora = 28091.59 m³/h
+Por lo tanto, se debe garantizar un caudal mínimo de 28,091.59 m³/h de ventilación en el local.
+4.6. Cálculo de detectores de monóxido de carbono para el estacionamiento subterráneo:
+Para determinar cuántos detectores de monóxido de carbono se deben instalar, se debe considerar la distribución de los detectores y el tamaño del área. Como regla general, se puede instalar un detector de monóxido de carbono por cada 200 m².
+Superficie del estacionamiento subterráneo = 3245 m²
+Número de detectores = Superficie total / Superficie por detector Número de detectores = 3245 m² / 200 m²/detector ≈ 16.225 detectores
+Debes redondear al número entero más cercano, por lo que se deben instalar aproximadamente 17 detectores de monóxido de carbono en el estacionamiento subterráneo.
+4.7. Veracidad de afirmaciones:
+a) Falsa: No existe una regla general que limite la superficie máxima cubierta por detectores de gas a 200 m². La ubicación depende de factores como el tipo de gas, su densidad, la ventilación y la probabilidad de fugas.
+b) Verdadera: Los detectores de monóxido de carbono se ubican a una altura media, generalmente entre 1.5 y 2 metros del suelo, ya que el CO tiende a elevarse.
+c) Falsa: Las conexiones del sistema de ventilación y extracción deben ser estancas para evitar la entrada de aire no controlado y garantizar una correcta circulación del aire.
+d) Falsa: La ubicación de los detectores de gas no depende exclusivamente del principio de detección, sino de otros factores como la distribución del gas en el área y la ventilación.
+4.8. Acciones en caso de alarma de un sistema de detección de gas explosivo:
+    1. Evacuación: En caso de alarma, se debe proceder a la evacuación inmediata de todas las personas presentes en la instalación hacia un lugar seguro.
+    2. Aislar la fuente: Si es posible, se debe intentar aislar o cerrar la fuente de gas para detener la emisión de gas explosivo.
+    3. Notificar a las autoridades: Se debe notificar a los servicios de emergencia y a los responsables de seguridad sobre la situación.
+    4. Ventilación: Asegurarse de que el sistema de ventilación funcione adecuadamente para eliminar el gas explosivo y restablecer un ambiente seguro.
+    5. Verificar el sistema: Una vez que se haya resuelto la emergencia, es importante revisar el sistema de detección de gas para asegurarse de que esté en buen estado de funcionamiento y calibrado correctamente.
+4.9. Orden de gases según su densidad (de más ligeros a más densos):
+    1. Hidrógeno
+    2. Neón
+    3. Metano
+    4. Vapor de gasolina
+    5. Monóxido de carbono
+    6. Dióxido de carbono
+    7. Butano
+    8. Propano
+    9. Oxígeno
+    10. Cloro
+    11. Nitrógeno
+
