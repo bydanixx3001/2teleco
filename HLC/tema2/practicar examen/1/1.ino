@@ -19,10 +19,10 @@ void loop()
     delay(1000);
   }
  
-  if (digitalRead,(PulsadorApagado)==LOW) 
-  {
-    digitalWrite(led,HIGH);
-    Serial.print("El led está encendido");
-    delay(1000);
-  }
+    if (digitalRead,(PulsadorApagado)==LOW) 
+    {
+   digitalWrite(led,HIGH);
+     Serial.print("El led está encendido");
+      delay(1000);
+    }
 }

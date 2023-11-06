@@ -1,3 +1,4 @@
+/* Servo con un potenciometro que regule el angulo del servo*/
 int pulsador = 6;
 int led = 13;
 int Vpul = 0;
