@@ -1,0 +1,14 @@
+﻿LDR componente pasivo que tiene dos temrinales es un sensor de luz y tambien se llama fotorresistencias crepuscular, y es una resistencia del grupo de las especiales,
+Simbología/patillaje 
+no tiene polaridad 
+conexionado 
+
+Código 
+int LDR= A0
+pinmode LDR(OUTPUT);
+int estadolrd = analogRead(LDR);
+int min = 988 
+int max 1018
+estadoldr= constrain(estadolrd, min, max);
+estadoldr= map (estadoldr,min,max,0,255);
+
