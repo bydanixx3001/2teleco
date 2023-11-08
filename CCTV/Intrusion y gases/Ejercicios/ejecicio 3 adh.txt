@@ -25,8 +25,8 @@ Superficie del estacionamiento subterráneo = 3245 m²
 Número de detectores = Superficie total / Superficie por detector Número de detectores = 3245 m² / 200 m²/detector ≈ 16.225 detectores
 Debes redondear al número entero más cercano, por lo que se deben instalar aproximadamente 17 detectores de monóxido de carbono en el estacionamiento subterráneo.
 4.7. Veracidad de afirmaciones:
-a) verdadero 
-b) Verdadera: porque la densidad del co2 es muy parecida al del oxigeno  
+a) Falsa: No existe una regla general que limite la superficie máxima cubierta por detectores de gas a 200 m². La ubicación depende de factores como el tipo de gas, su densidad, la ventilación y la probabilidad de fugas.
+b) Verdadera: Los detectores de monóxido de carbono se ubican a una altura media, generalmente entre 1.5 y 2 metros del suelo, ya que el CO tiende a elevarse.
 c) Falsa: Las conexiones del sistema de ventilación y extracción deben ser estancas para evitar la entrada de aire no controlado y garantizar una correcta circulación del aire.
 d) Falsa: La ubicación de los detectores de gas no depende exclusivamente del principio de detección, sino de otros factores como la distribución del gas en el área y la ventilación.
 4.8. Acciones en caso de alarma de un sistema de detección de gas explosivo:
