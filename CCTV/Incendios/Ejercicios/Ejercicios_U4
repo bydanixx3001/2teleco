@@ -13,3 +13,15 @@ c) Un detector térmico de temperatura fija
 2.10 Dados los siguientes emplazamientos, justifica que sistema electronico contra incendios sería el más idoneo
 2.11 Indica los tipos de respuestas que puede dar un sistema de protección electrónica contra incendios. 
 
+2.1 Sistema de alarma de incendios: Un sistema de alarma de incendios es un conjunto de dispositivos interconectados diseñados para detectar y alertar sobre la presencia de un incendio. Estos sistemas pueden incluir detectores de humo, detectores de calor, estaciones manuales de alarma y dispositivos de notificación, como alarmas sonoras y luces estroboscópicas.
+2.2 Sistema de detección de incendios: Un sistema de detección de incendios es una parte integral de un sistema de alarma de incendios. Se encarga de identificar la presencia de fuego o condiciones que podrían llevar a un incendio. Los detectores de humo, detectores de calor, detectores de llama y otros dispositivos forman parte de este sistema.
+2.3 Zonas de protección: Las zonas de protección se refieren a áreas específicas dentro de un edificio o instalación que son monitoreadas por el sistema de alarma de incendios. Estas zonas permiten una identificación más precisa del lugar donde se ha detectado una condición de incendio o emergencia.
+2.4 Nivel de potencia sonora de los avisadores acústicos: Los avisadores acústicos en una instalación de seguridad electrónica contra incendios deben estar dimensionados para alcanzar un nivel de potencia sonora adecuado. Este nivel suele ser determinado por normativas locales o códigos de construcción y está diseñado para asegurar que la alarma sea claramente audible en todas las áreas cubiertas por el sistema, incluso en condiciones de ruido ambiental.
+2.5 (No se proporcionó una pregunta específica para esta numeración).
+2.6 Tipos de detectores de incendio y sus funciones:
+    • Detector de humo óptico: Utiliza un haz de luz para detectar partículas de humo en el aire. Cuando el humo interrumpe el haz de luz, se activa la alarma.
+    • Detector de calor: Mide el aumento de temperatura en el entorno. Puede activarse cuando la temperatura alcanza un umbral preestablecido.
+    • Detector de llama: Utiliza sensores para detectar la radiación emitida por las llamas. Es eficaz en entornos donde la detección de humo puede no ser suficiente.
+    • Detector de ionización: Detecta partículas cargadas eléctricamente producidas por la combustión. Es sensible a las llamas de rápida ignición.
+    • Detector de monóxido de carbono (CO): Detecta la presencia de CO, un gas liberado durante la combustión incompleta. Puede indicar un riesgo de incendio o de condiciones peligrosas para la salud.
+
