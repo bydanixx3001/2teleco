@@ -1,0 +1,51 @@
+﻿Tipos de componentes componente optoelectrónico de diez terminales que permite visualizar numero del 0 al 9, y letras. 
+Componentes del codigo 
+int a=1; 
+hasta el 
+int g =7;
+
+pinMode(a, OUTPUT);
+pinMode(g, OUTPUT);
+digital write(a,LOW)
+digital write(g,LOW);
+
+ARRAY
+int segmentos[7]={a,b,c,d,e,f,g}; ;//
+ofr(int i=0; i<7; i++)
+{
+ pinMode(segmentos [i], OUTPUT);
+ digitalWrite(semgentos[1], LOW);
+}
+esta es otra forma de hacerlo mas corta 
+
+
+byte numeros [10][8]=
+{ 
+	{1,1,1,1,1,1,0,0}, nº0
+	{0,1,1,0,0,0,0,0}, nº1
+	{1,1,0,1,1,0,1,0}; nº2
+	{1,1,1,1,0,0,1,0}; nº3
+	{0,1,1,0,0,1,1,0}; nº4 
+	{1,0,1,1,0,1,1,0}; nº5 
+	{1,0,1,1,1,1,1,0}; nº6 
+	{1,1,1,0,0,0,0,0}; nº7 
+	{1,1,1,1,1,1,1,0}; nº8 
+	{1,1,1,1,0,1,1,0}; nº9
+}
+
+
+
+
+Void aparte 
+void Display(int va, int vb,int vc, int vd, int ve, int vf, int vg)
+{
+digital write(a,va);
+
+Random 
+int valoraleatorio;
+int valoraleatorio = random(1,7); //genera un n.º aleatorio entre el 1 y el 6 
+
+randomSeed(analogRead(A0));
+for (int i=0; i<8 ; i++)
+{ 
+	digitalWrite(pines[i], digitos [valoraleatorio] [i]);

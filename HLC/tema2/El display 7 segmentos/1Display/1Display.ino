@@ -1,2 +1,0 @@
-/*ldr y display*/
-
